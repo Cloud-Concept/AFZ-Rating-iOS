@@ -1,0 +1,73 @@
+/* 
+  File.strings
+  EstimationCalculator
+
+  Created by Mina Zaklama on 9/3/13.
+  Copyright (c) 2013 ZAPP Island. All rights reserved.
+*/
+
+/* Submit button */
+"submit" = "إتمام";
+
+/* Next button */
+"next" = "التالي";
+
+/* Back button */
+"back" = "رجوع";
+
+/* Footer text in questions pages */
+"questions_footer" = "للاستفسارات والاقتراحات، يرجى التواصل معنا على feedback@afza.ae  أو +97141234567";
+
+/* Ok */
+"ok" = "حسنا";
+
+/* Error messgae when Single Select Question */
+"single_select_error_message" = "حدد خيارا من أجل المضي قدما إلى السؤال التالي";
+
+/* Error messgae when Single Select Question is last question*/
+"single_select_error_message_last_question" = "حدد خيارا من أجل إتمام الاستطلاع";
+
+/* Error messgae when Text Question */
+"text_error_message" = "قدم إجابة من أجل المضي قدما إلى السؤال التالي";
+
+/* Error messgae when Text Question is last question */
+"text_error_message_last_question" = "قدم إجابة من أجل إتمام الاستطلاع";
+
+/* Error Title */
+"error" = "خطأ";
+
+/* Q1, Q2, .... */
+"question_number_header" = "%d";
+
+/* Placeholder for Company Name text field in Select Company popover */
+"license_number_placeholder" = "أدخل رقم الرخصة";
+
+/* Placeholder for Company Phone text field in Select Company popover */
+"person_name_placeholder" = "أدخل إسمك";
+
+/* Placeholder for Company Email text field in Select Company popover */
+"mobile_number_placeholder" = "أدخل رقم هاتفك المحمول (05XXXXXXXX)";
+
+/* */
+"contact_info_label" = "الرجاء ملء هذا النموذج لإتمام هذا الاستطلاع";
+
+/* Error messgae when Text Question is last question */
+"contact_info_error_message" = "الرجاء إدخال جميع المعلومات من أجل تقديم الاستطلاع الخاصة بك";
+
+/* Error messgae when field type validation error */
+"contact_info_field_type_error_message" = "رقم الرخصة ورقم هاتفك المحمول يجب أن يكونا القيم رقمية";
+
+/* Select button in Select Company popover */
+"select" = "SELECT";
+
+/* Survey Name Not Entered Error Title */
+"survey_name_error_title" = "Survey Name Error";
+
+/* Survey Name Not Entered Error Message */
+"survey_name_error_msg" = "Please enter the Survey Name you want to take in the settings.";
+
+/* No Questions found Error Title */
+"no_questions_error_title" = "No Questions Found";
+
+/* No Questions found Error Message */
+"no_questions_error_msg" = "No questions found for this survey name.";

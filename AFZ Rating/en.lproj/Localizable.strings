@@ -1,0 +1,84 @@
+/* 
+  File.strings
+  EstimationCalculator
+
+  Created by Mina Zaklama on 9/3/13.
+  Copyright (c) 2013 ZAPP Island. All rights reserved.
+*/
+
+
+/* Submit button */
+"submit" = "SUBMIT";
+
+/* Next button */
+"next" = "NEXT";
+
+/* Back button */
+"back" = "BACK";
+
+/* Footer text in questions pages */
+"questions_footer" = "If you have any questions about the survey, please contact us at feedback@afza.ae or call +9741234567";
+
+/* Ok */
+"ok" = "Ok";
+
+/* Error messgae when Single Select Question */
+"single_select_error_message" = "Select an option in order to process to next question";
+
+/* Error messgae when Single Select Question is last question*/
+"single_select_error_message_last_question" = "Select an option in order to submit your survey";
+
+/* Error messgae when Text Question */
+"text_error_message" = "Provide an answer in order to process to next question";
+
+/* Error messgae when Text Question is last question */
+"text_error_message_last_question" = "Provide an answer in order to submit your survey";
+
+/* Error Title */
+"error" = "Error";
+
+/* Q1, Q2, .... */
+"question_number_header" = "%d";
+
+/* Placeholder for Company Name text field in Select Company popover */
+"license_number_placeholder" = "Enter License Number";
+
+/* Placeholder for Company Phone text field in Select Company popover */
+"person_name_placeholder" = "Enter Your Name";
+
+/* Placeholder for Company Email text field in Select Company popover */
+"mobile_number_placeholder" = "Enter Your Mobile Number (05XXXXXXXX)";
+
+/* Placeholder for Survey Name text field in Select Company popover */
+"survey_name_placeholder" = "Enter Survey Name";
+
+/* */
+"contact_info_label" = "PLEASE FILL THIS FORM TO COMPLETE THIS SURVEY";
+
+/* Error messgae when Text Question is last question */
+"contact_info_error_message" = "Please enter all fields in order to submit your survey";
+
+/* Error messgae when field type validation error */
+"contact_info_field_type_error_message" = "License Number and Mobile Number should be numeric values";
+
+/* Select button in Select Company popover */
+"select" = "SELECT";
+
+/* Start Survey Button first line */
+"start_survey_button_line_one" = "YOUR FEEDBACK IS IMPORTANT TO US";
+
+/* Start Survey Button second line */
+"start_survey_button_line_two" = "CLICK HERE TO START SURVEY";
+
+/* Survey Name Not Entered Error Title */
+"survey_name_error_title" = "Survey Name Error";
+
+/* Survey Name Not Entered Error Message */
+"survey_name_error_msg" = "Please enter the Survey Name you want to take in the settings.";
+
+/* No Questions found Error Title */
+"no_questions_error_title" = "No Questions Found";
+
+/* No Questions found Error Message */
+"no_questions_error_msg" = "No questions found for this survey name.";
+
