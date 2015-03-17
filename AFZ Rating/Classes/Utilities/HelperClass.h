@@ -7,12 +7,12 @@
 //
 
 #import <Foundation/Foundation.h>
-//* Production
+/* Production
 #define kSurveysWebServiceGet @"https://afza.secure.force.com/AFZSurveysServices/services/apexrest/surveys_webservice?SurveyName=Mobile Rating Survey"
 #define kSurveysWebServicePost @"https://afza.secure.force.com/AFZSurveysServices/services/apexrest/surveys_webservice"
 //*/
 
-/* Sandbox
+//* Sandbox
 #define kSurveysWebServiceGet @"https://mobileapp-afza.cs8.force.com/AFZSurveysServices/services/apexrest/surveys_webservice?SurveyName=Mobile Rating Survey"
  #define kSurveysWebServicePost @"https://mobileapp-afza.cs8.force.com/AFZSurveysServices/services/apexrest/surveys_webservice"
 //*/
